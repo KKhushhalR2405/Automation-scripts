@@ -2,7 +2,7 @@
 
 ## Working
 
-1)Details of participants is stored in a csv file
+1)Details of participants are stored in a csv file
 
 2)Details are fetched and desired certificate is generated
 
